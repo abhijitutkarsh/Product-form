@@ -1,0 +1,24 @@
+.container {
+  font-family: "Shippori Mincho B1", serif;
+}
+
+input {
+  width: 40%;
+  margin: 11px;
+  padding: 5px;
+  /* border: 2px solid black; */
+  border-radius: 50px;
+  outline: none;
+}
+
+.btn {
+  padding: 8px 12px;
+  font-size: 15px;
+  border: 2px solid black;
+  border-radius: 14px;
+  cursor: pointer;
+}
+
+.submitmsg{
+    color: green;
+}
